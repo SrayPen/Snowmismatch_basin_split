@@ -40,6 +40,8 @@ excluded basins stay in every basin-averaged analysis and are dropped only from 
 
 - `plots/` - one figure per basin, grouped by audit status (`valid_T600`, `invalid_multi_outlet`, `invalid_one_sided`).
   Figures are downscaled to 1600 px wide and saved as 64-colour indexed PNG; the originals are 2312 px wide.
+  The four visually inverted basins are network-valid, so their figures sit in `valid_T600`;
+  `index.html` points there for them (the working copy of the audit page linked to a folder that does not exist).
 - `index.html` - offline browser for the figures: filter by status, relief class, threshold sensitivity, and step
   through the basins. Open it locally, or serve the repository with GitHub Pages.
 - `data/Lev08_split.csv` - the label of every Level-08 cell (the partition itself).
