@@ -1,7 +1,0 @@
-threshold,delta_E_m,cells_relabelled_vs_T600,pct_cells_relabelled_vs_T600,median_upstream_area_frac
-T300,300,278,2.89,0.532
-T400,400,176,1.83,0.526
-T500,500,74,0.77,0.518
-T600,600,0,0.0,0.517
-T700,700,32,0.33,0.515
-T800,800,71,0.74,0.513

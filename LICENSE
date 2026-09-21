@@ -1,0 +1,9 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+You are free to share and adapt the data tables, figures, Jupyter notebooks and Python modules in this repository for
+any purpose, provided you give appropriate credit: cite the manuscript "Asymmetric snow variations from headwater to
+downstream in Northern Hemisphere basins" (Nature Communications, NCOMMS-26-023352) and this repository.
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The tables derive from ERA5-Land (Copernicus Climate Change Service), HydroBASINS / BasinATLAS v10 and HydroRIVERS v1.0
+(HydroSHEDS) and GPW v4 population counts; those data sets keep their own licences.
