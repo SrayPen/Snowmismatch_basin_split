@@ -1,10 +1,5 @@
 # Upstream-downstream partition of 1,083 snow-affected Northern Hemisphere basins
 
-The basin partition of "Asymmetric snow variations from headwater to downstream in Northern Hemisphere basins"
-(Nature Communications, NCOMMS-26-023352): the upstream or downstream label of every HydroBASINS Level-08 sub-basin,
-the audit of every partition, and one map per basin. The algorithm is described in the Methods and in Supplementary
-Text S2 of the paper.
-
 ## Run
 
 Open `code/split_basins.ipynb` and run all cells (numpy and pandas, a few seconds). It reads `data/Lev08_cells.csv`,
