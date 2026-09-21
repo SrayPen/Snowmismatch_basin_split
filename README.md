@@ -30,7 +30,7 @@ Open `index.html` to browse the maps by audit status, relief class and basin.
   black dot marks a label that differs from the 600 m partition).
 - `Workflow.tiff` - the workflow of the partition (Supplementary Fig. S6 of the paper).
 
-The notebooks that redraw Figs. 1-4 and the Source Data are in https://github.com/shileipeng10/snowmismatch_reproduction.
+The notebooks that redraw Figs. 1-4 and the Source Data are in https://github.com/SrayPen/snowmismatch_reproduction.
 
 ## License
 
